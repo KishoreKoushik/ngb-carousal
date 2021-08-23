@@ -1,6 +1,6 @@
 # NgbCarousal
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.0.
+This project is the demo of angular ngb-carousal. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.0.
 
 ## Development server
 
